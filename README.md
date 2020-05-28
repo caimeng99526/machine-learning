@@ -1,11 +1,11 @@
 # machine-learning
 Machine learning algorithm
 
-## 机器学习
+# 机器学习算法
 
-# 作者：蔡猛
+## 作者：蔡猛
 
-# 模块说明
+## 模块说明
 
     learning
        |
@@ -29,7 +29,7 @@ Machine learning algorithm
                 |
                 |---- def load_movie() 电影高评数据
 
-# 模块安装
+## 模块安装
 
     Windows系统：请在当前目录下运行 python setup.py install
     
